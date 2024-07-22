@@ -1,0 +1,5 @@
+docker-compose.dev.yml
+lithosphere.toml
+.env
+/lithosphere
+.idea/
